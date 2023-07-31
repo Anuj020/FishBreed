@@ -35,5 +35,5 @@ To install and set up FishBreed, follow these steps:
 
 - Html and CSS for building the front-end user interface.
 - Used Flask framework
-- Python library such as Numpy, joblib, pickle, Scikit-learn
+- Python libraries that are mentioned in requirements.txt file
 
